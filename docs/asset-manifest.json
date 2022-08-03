@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChronoData-App/static/css/main.3fd8ce2b.css",
+    "main.js": "/ChronoData-App/static/js/main.5e15b28e.js",
+    "index.html": "/ChronoData-App/index.html",
+    "main.3fd8ce2b.css.map": "/ChronoData-App/static/css/main.3fd8ce2b.css.map",
+    "main.5e15b28e.js.map": "/ChronoData-App/static/js/main.5e15b28e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd8ce2b.css",
+    "static/js/main.5e15b28e.js"
+  ]
+}
