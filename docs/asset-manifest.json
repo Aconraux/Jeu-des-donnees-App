@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ChronoData-App/static/css/main.3fd8ce2b.css",
-    "main.js": "/ChronoData-App/static/js/main.5e15b28e.js",
+    "main.css": "/ChronoData-App/static/css/main.534f4e75.css",
+    "main.js": "/ChronoData-App/static/js/main.08a0ee65.js",
     "index.html": "/ChronoData-App/index.html",
-    "main.3fd8ce2b.css.map": "/ChronoData-App/static/css/main.3fd8ce2b.css.map",
-    "main.5e15b28e.js.map": "/ChronoData-App/static/js/main.5e15b28e.js.map"
+    "main.534f4e75.css.map": "/ChronoData-App/static/css/main.534f4e75.css.map",
+    "main.08a0ee65.js.map": "/ChronoData-App/static/js/main.08a0ee65.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd8ce2b.css",
-    "static/js/main.5e15b28e.js"
+    "static/css/main.534f4e75.css",
+    "static/js/main.08a0ee65.js"
   ]
 }
