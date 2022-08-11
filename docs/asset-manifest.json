@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jeu-des-donnees-App/static/css/main.534f4e75.css",
-    "main.js": "/Jeu-des-donnees-App/static/js/main.08a0ee65.js",
+    "main.js": "/Jeu-des-donnees-App/static/js/main.aa72fc3b.js",
     "index.html": "/Jeu-des-donnees-App/index.html",
     "main.534f4e75.css.map": "/Jeu-des-donnees-App/static/css/main.534f4e75.css.map",
-    "main.08a0ee65.js.map": "/Jeu-des-donnees-App/static/js/main.08a0ee65.js.map"
+    "main.aa72fc3b.js.map": "/Jeu-des-donnees-App/static/js/main.aa72fc3b.js.map"
   },
   "entrypoints": [
     "static/css/main.534f4e75.css",
-    "static/js/main.08a0ee65.js"
+    "static/js/main.aa72fc3b.js"
   ]
 }
