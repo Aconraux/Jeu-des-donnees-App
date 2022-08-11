@@ -1,6 +1,6 @@
 # Jeu-des-donnees-App
 
-ChronoData-App est une application Web.
+Jeu-des-donnees-App est une application Web.
 
 # Licence
 
